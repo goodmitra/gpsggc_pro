@@ -1,0 +1,6 @@
+2023/01/13-05:14:54.535 386e Creating DB /workspaces/gpsggc_pro/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2023/01/13-05:14:54.576 386e Reusing MANIFEST /workspaces/gpsggc_pro/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/13-05:14:54.677 3874 Level-0 table #5: started
+2023/01/13-05:14:54.689 3874 Level-0 table #5: 7349 bytes OK
+2023/01/13-05:14:54.706 3874 Delete type=0 #3
+2023/01/13-05:14:54.706 3874 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
